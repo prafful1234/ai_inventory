@@ -34,7 +34,7 @@ fi
 
 echo "💾 Installing app on site..."
 echo "Please specify your site name:"
-read -p "Site name (e.g., mysite.localhost): " SITE_NAME
+read -p "Site name (e.g., frontend): " SITE_NAME
 
 if [ -z "$SITE_NAME" ]; then
     echo "❌ Site name is required"

@@ -303,9 +303,7 @@ bench --site your-site-name clear-cache
 ```bash
 # Download and run the automated installation script
 cd /path/to/your/bench
-wget https://raw.githubusercontent.com/prafful1234/ai_inventory/main/install.sh
-chmod +x install.sh
-./install.sh
+curl -fsSL https://raw.githubusercontent.com/prafful1234/ai_inventory/main/install.sh | bash
 ```
 
 ### Manual Installation

@@ -283,7 +283,7 @@ cd /path/to/your/bench
 ./env/bin/pip install numpy>=1.21.0 pandas>=1.3.0 scikit-learn>=1.0.0 matplotlib>=3.3.0 scipy>=1.7.0
 
 # STEP 2: Get the app
-bench get-app https://github.com/yourusername/ai_inventory.git
+bench get-app https://github.com/prafful1234/ai_inventory.git
 
 # STEP 3: Install on your site
 bench --site your-site-name install-app ai_inventory
@@ -303,7 +303,7 @@ bench --site your-site-name clear-cache
 ```bash
 # Download and run the automated installation script
 cd /path/to/your/bench
-wget https://raw.githubusercontent.com/yourusername/ai_inventory/main/install.sh
+wget https://raw.githubusercontent.com/prafful1234/ai_inventory/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -312,7 +312,7 @@ chmod +x install.sh
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ai_inventory.git
+   git clone https://github.com/prafful1234/ai_inventory.git
    cd ai_inventory
    ```
 
@@ -1432,7 +1432,7 @@ We welcome contributions! Please follow these guidelines:
 
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/ai_inventory.git
+git clone https://github.com/prafful1234/ai_inventory.git
 cd ai_inventory
 
 # Create development branch
@@ -1562,9 +1562,9 @@ SOFTWARE.
 ## 📞 Support
 
 ### Community Support
-- **GitHub Issues**: [Report bugs and request features](https://github.com/yourusername/ai_inventory/issues)
-- **Discussions**: [Community forum](https://github.com/yourusername/ai_inventory/discussions)
-- **Wiki**: [Documentation and guides](https://github.com/yourusername/ai_inventory/wiki)
+- **GitHub Issues**: [Report bugs and request features](https://github.com/prafful1234/ai_inventory/issues)
+- **Discussions**: [Community forum](https://github.com/prafful1234/ai_inventory/discussions)
+- **Wiki**: [Documentation and guides](https://github.com/prafful1234/ai_inventory/wiki)
 
 ### Commercial Support
 - **Professional Services**: Available for custom implementations
@@ -1584,10 +1584,10 @@ SOFTWARE.
 
 Made with ❤️ by the AI Inventory Team
 
-[🏠 Home](https://github.com/yourusername/ai_inventory) • 
-[📖 Docs](https://github.com/yourusername/ai_inventory/wiki) • 
-[🐛 Issues](https://github.com/yourusername/ai_inventory/issues) • 
-[💬 Discussions](https://github.com/yourusername/ai_inventory/discussions)
+[🏠 Home](https://github.com/prafful1234/ai_inventory) • 
+[📖 Docs](https://github.com/prafful1234/ai_inventory/wiki) • 
+[🐛 Issues](https://github.com/prafful1234/ai_inventory/issues) • 
+[💬 Discussions](https://github.com/prafful1234/ai_inventory/discussions)
 
 </div>
 # 📦 Installation Guide - AI Inventory Forecast
@@ -1632,7 +1632,7 @@ sudo apt-get install -y build-essential
 cd /home/frappe/frappe-bench
 
 # 2. Get the app from GitHub
-bench get-app https://github.com/yourusername/ai_inventory.git
+bench get-app https://github.com/prafful1234/ai_inventory.git
 
 # 3. Install on your site
 bench --site your-site-name install-app ai_inventory
@@ -1652,7 +1652,7 @@ bench --site your-site-name clear-cache
 ```bash
 # 1. Clone the repository
 cd /home/frappe/frappe-bench/apps
-git clone https://github.com/yourusername/ai_inventory.git
+git clone https://github.com/prafful1234/ai_inventory.git
 
 # 2. Install the app
 cd /home/frappe/frappe-bench
@@ -1669,7 +1669,7 @@ bench restart
 
 ```bash
 # Download the latest release
-wget https://github.com/yourusername/ai_inventory/archive/v2.0.0.tar.gz
+wget https://github.com/prafful1234/ai_inventory/archive/v2.0.0.tar.gz
 
 # Extract
 tar -xzf v2.0.0.tar.gz

@@ -29,7 +29,7 @@ echo "📥 Installing AI Inventory app..."
 # Get the app if not already present
 if [ ! -d "apps/ai_inventory" ]; then
     echo "Downloading AI Inventory app..."
-    bench get-app https://github.com/yourusername/ai_inventory.git
+    bench get-app https://github.com/prafful1234/ai_inventory.git
 fi
 
 echo "💾 Installing app on site..."
